@@ -49,9 +49,9 @@ Data is sent from the extension to the SyncToSheet backend and then written to y
 
 ## Links
 
-- **Web app (portal)** – [https://app.synctosheet.com](https://app.synctosheet.com)
-- **API** – [https://api.synctosheet.com](https://api.synctosheet.com)
-- **SynctoSheet site** – [https://synctosheet.com](https://synctosheet.com)
+- **Web app (portal)** – [SynctoSheet Portal](https://app.synctosheet.com)
+- **Chrome Extension** - [SynctoSheet Google Chrome Extension](https://chromewebstore.google.com/detail/synctosheet-%E2%80%93-linkedin-to/lhdchcndglohdnjknhecppmjdponeklb)
+- **SynctoSheet site** – [SynctoSheet](https://synctosheet.com)
 
 ---
 
